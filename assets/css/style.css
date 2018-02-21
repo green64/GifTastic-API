@@ -8,7 +8,6 @@ html {
 
   .container {
     width: auto;
-    max-width: 680px;
     padding: 0 15px;
   }
 
@@ -26,9 +25,16 @@ html {
     background: radial-gradient(rgba(226, 217, 217, 0), rgb(18, 209, 82));
     color: #000;
     font-weight: 600;
-    font-class: lead;
     padding: 10px;
     margin: 5px;
     border-radius: 5px;
     border-color: black;
+}
+
+.giphy-view{
+  color: #000;
+  float: left;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
 }
