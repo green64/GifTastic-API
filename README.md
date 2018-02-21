@@ -17,6 +17,5 @@ I've managed to fulfill the assignement requirements, but the GIPHYs land on the
 
 This is my page ... 
 
-![before styling]
-(https://green64.github.io/GifTastic-API/assets/images/page_before_style.png)
+![before styling](https://green64.github.io/GifTastic-API/assets/images/page_before_style.png)
 
