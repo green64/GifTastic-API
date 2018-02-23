@@ -38,3 +38,22 @@ html {
   margin: 5px;
   border-radius: 5px;
 }
+
+#div1 {
+  margin:10px;
+  font-size:1.25em;
+}
+table {
+  border-collapse:collapse;
+  border:1px solid #7f7f7f;
+}
+td {
+  border:1px solid #7f7f7f;
+  padding: 10px;
+  text-align:left;
+}
+.gif{
+  display: inline-block;
+  margin: 10px 20px;
+  align-items: bottom;
+}
