@@ -17,6 +17,8 @@ I've managed to fulfill the assignement requirements, but the GIPHYs land on the
 
 Inline block style! That's all it took to render my images more attractively. Sometimes the easiest solutions are just fine. 
 
+Also, moving my search field to the left keeps it from disappearing on smaller viewports. Always be thinking of responsiveness for usability on mobile, mobile, mobile!
+
 
 Before Styling | After Styling
 ------------ | -------------
