@@ -18,5 +18,5 @@ I've managed to fulfill the assignement requirements, but the GIPHYs land on the
 
 Before Styling | After Styling
 ------------ | -------------
-![before styling](https://green64.github.io/GifTastic-API/assets/images/page_before_style.png) | Coming soon!
+![before styling](https://green64.github.io/GifTastic-API/assets/images/page_before_style.png) | ![after styling](https://green64.github.io/GifTastic-API/assets/images/page_with_style.png)
 
