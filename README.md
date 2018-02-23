@@ -15,6 +15,8 @@ This pages utilizes HTML, CSS, AJAX, JavaScript, jQuery, and Bootstrap. So far.
 
 I've managed to fulfill the assignement requirements, but the GIPHYs land on the page in a vertical row, which doesn't look all that great on a horizontal viewport. Now that I've created dynamic buttons and images, I'm going to explore a dynamic table or some other styling method to make my page more attractive.  
 
+Inline block style! That's all it took to render my images more attractively. Sometimes the easiest solutions are just fine. 
+
 
 Before Styling | After Styling
 ------------ | -------------
