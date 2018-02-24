@@ -15,8 +15,12 @@ This pages utilizes HTML, CSS, AJAX, JavaScript, jQuery, and Bootstrap. So far.
 
 I've managed to fulfill the assignement requirements, but the GIPHYs land on the page in a vertical row, which doesn't look all that great on a horizontal viewport. Now that I've created dynamic buttons and images, I'm going to explore a dynamic table or some other styling method to make my page more attractive.  
 
+Inline block style! That's all it took to render my images more attractively. Sometimes the easiest solutions are just fine. 
+
+Also, moving my search field to the left keeps it from disappearing on smaller viewports. Always be thinking of responsiveness for usability on mobile, mobile, mobile!
+
 
 Before Styling | After Styling
 ------------ | -------------
-![before styling](https://green64.github.io/GifTastic-API/assets/images/page_before_style.png) | Coming soon!
+![before styling](https://green64.github.io/GifTastic-API/assets/images/page_before_style.png) | ![after styling](https://green64.github.io/GifTastic-API/assets/images/page_with_style.png)
 
